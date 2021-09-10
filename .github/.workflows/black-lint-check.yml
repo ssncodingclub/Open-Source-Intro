@@ -1,0 +1,11 @@
+name: black-lint-check
+
+on: [push, pull_request]
+
+jobs:
+  lint-black:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - run: pip install black
+    - run: black --check .
