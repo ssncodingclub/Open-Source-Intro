@@ -9,8 +9,8 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: Install Black
-    - run: pip install black
+      run: pip install black
     - name: Check Black version
-    - run: black --version 
+      run: black --version 
     - name : Check formatting of files 
-    - run: black --check .
+      run: black --check .
