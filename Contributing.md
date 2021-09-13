@@ -53,3 +53,21 @@ and are more than willing to offer you a hand if you ask on an issue or PR.
 - Screen shots of the before and after fixing the issue, if it's a bug. This
   would help provide visual explanation to your PR.
 
+## HOW TO CONTRIBUTE
+
+- Click on the Fork button in the top-right corner. This creates a new copy of my demo repo under your GitHub user account with a URL like:
+```https://github.com/<YourUserName>/Open-Source-Intro```
+
+- Clone the repo by opening the terminal on your computer and running the command:
+```git clone https://github.com/<YourUserName>/Open-Source-Intro```
+
+- Create a new branch by issuing the command:
+```git checkout -b branch_name```
+
+- Create a new remote for the upstream repo with the command:
+```git remote add upstream https://github.com/username/Open-Source-Intro```
+In this case, "upstream repo" refers to the original repo you created your fork from.Now you can make changes to the code!
+
+- Once you push the changes to your repo, the Compare & pull request button will appear in GitHub
+
+- Open a pull request by clicking the Create pull request button. This allows the repo's maintainers to review your contribution. From here, we can merge it if it is good, or we may ask you to make some changes. Kindly folow the PR Template while submitting the PR.
