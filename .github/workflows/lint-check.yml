@@ -1,4 +1,4 @@
-name: black-lint-check
+name: Lint checking with Black
 
 on:
   push:
