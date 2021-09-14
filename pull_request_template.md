@@ -1,3 +1,4 @@
+<!-- You can erase any parts of this template not applicable to your Pull Request. -->
 # Issue Description
 
 Please include a summary of the issue.
@@ -14,7 +15,6 @@ Please describe the changes that you made.
 * [ ] Have you checked to ensure there aren't other open [Pull Requests](https://github.com/ssncodingclub/Open-Source-Intro/pulls) for the same update/change?
 * [ ] My code follows the code style of this organization.
 
-<!-- You can erase any parts of this template not applicable to your Pull Request. -->
 
 ### New Feature Submissions:
 
