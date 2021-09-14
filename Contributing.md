@@ -55,7 +55,7 @@ and are more than willing to offer you a hand if you ask on an issue or PR.
 
 ## HOW TO CONTRIBUTE
 
-- Click on the Fork button in the top-right corner. This creates a new copy of my demo repo under your GitHub user account with a URL like:
+- Click on the Fork button in the top-right corner. This creates a new copy of this demo repo under your GitHub user account with a URL like:
 ```https://github.com/<YourUserName>/Open-Source-Intro```
 
 - Clone the repo by opening the terminal on your computer and running the command:
