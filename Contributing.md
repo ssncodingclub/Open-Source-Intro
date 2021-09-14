@@ -41,7 +41,7 @@ and are more than willing to offer you a hand if you ask on an issue or PR.
 - A description of the problem you're trying to solve, including why you think
   this is a problem, and a descriptive overview of the suggested solution.
 
-**When making a PR, follow the below template outlines(check out pr_template.md for more leads):**
+**When making a PR, follow the below template outlines(check out pull_request_template.md for more leads):**
 
 - A descriptive title for the PR.
 
