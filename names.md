@@ -1,7 +1,8 @@
+Sneha Sriram Kannan - CSE   
 Vrishin Vigneshwar - CSE   
 Dhiganth Rao - ECE   
 Srinithyee - CSE   
-Aditya.R - IT    
+Aditya R - IT    
 Harisaran G - IT  
 Lokesh NN - CSE     
 Sabesh Bharathi - IT         
