@@ -1,9 +1,10 @@
-Nithin Balaji - IT  
-Dhiganth Rao - ECE  
-Srinithyee - CSE  
-Vignesh Balaji - CSE  
-Sabesh Bharathi - IT  
-Harisaran G - IT   
-Shashank Panda - CSE   
-Aditya.R - IT   
-Lokesh NN - CSE  
+Vrishin Vigneshwar - CSE   
+Dhiganth Rao - ECE   
+Srinithyee - CSE   
+Aditya.R - IT    
+Harisaran G - IT  
+Lokesh NN - CSE     
+Sabesh Bharathi - IT         
+Shashank Panda - CSE         
+Nithin Balaji - IT         
+Vignesh Balaji - CSE    
