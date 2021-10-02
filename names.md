@@ -10,4 +10,4 @@ Shashank Panda - CSE\
 Nithin Balaji - IT\
 Vignesh Balaji - CSE\
 Gokul Prakash R - CSE\
-Aman Khemka - IT\
+Aman Khemka - IT
