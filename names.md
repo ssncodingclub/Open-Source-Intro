@@ -1,4 +1,4 @@
-Sneha Sriram Kannan - CSE
+Sneha Sriram Kannan - CSE\
 Vrishin Vigneshwar - CSE
 Dhiganth Rao - ECE
 Srinithyee - CSE
