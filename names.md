@@ -11,3 +11,4 @@ Nithin Balaji - IT\
 Vignesh Balaji - CSE\
 Gokul Prakash R - CSE\
 Aman Khemka - IT
+Shaikh Saad Ali - CSE\
